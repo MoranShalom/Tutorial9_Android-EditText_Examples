@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tutorial9_Edittext_Examples</string>
+    <string name="password">Password</string>
+    <string name="numeric_password">Numeric Password</string>
+    <string name="phone">Phone</string>
+    <string name="multiline_text">MultiLine text</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="number_signed">Number Signed</string>
+    <string name="number_decimal">Number Decimal</string>
+    <string name="email">Email</string>
+</resources>
